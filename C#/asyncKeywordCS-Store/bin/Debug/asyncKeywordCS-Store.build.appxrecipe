@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>SAHNNYJ12</Machine>
+    <WindowsUser>sahnnyj</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="c:\users\sahnnyj\documents\visual studio 2012\Projects\asyncKeywordCS-WPF and Store\asyncKeywordCS-Store\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="c:\users\sahnnyj\documents\visual studio 2012\Projects\asyncKeywordCS-WPF and Store\asyncKeywordCS-Store\bin\Debug\asyncKeywordCS-Store.exe">
+      <PackagePath>asyncKeywordCS-Store.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sahnnyj\documents\visual studio 2012\Projects\asyncKeywordCS-WPF and Store\asyncKeywordCS-Store\bin\Debug\asyncKeywordCS-Store.pdb">
+      <PackagePath>asyncKeywordCS-Store.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sahnnyj\documents\visual studio 2012\Projects\asyncKeywordCS-WPF and Store\asyncKeywordCS-Store\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sahnnyj\documents\visual studio 2012\Projects\asyncKeywordCS-WPF and Store\asyncKeywordCS-Store\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sahnnyj\documents\visual studio 2012\Projects\asyncKeywordCS-WPF and Store\asyncKeywordCS-Store\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sahnnyj\documents\visual studio 2012\Projects\asyncKeywordCS-WPF and Store\asyncKeywordCS-Store\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sahnnyj\documents\visual studio 2012\Projects\asyncKeywordCS-WPF and Store\asyncKeywordCS-Store\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sahnnyj\documents\visual studio 2012\Projects\asyncKeywordCS-WPF and Store\asyncKeywordCS-Store\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sahnnyj\documents\visual studio 2012\Projects\asyncKeywordCS-WPF and Store\asyncKeywordCS-Store\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="c:\users\sahnnyj\documents\visual studio 2012\Projects\asyncKeywordCS-WPF and Store\asyncKeywordCS-Store\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
